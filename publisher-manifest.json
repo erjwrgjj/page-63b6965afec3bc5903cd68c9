@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ba18438f5e3c302a3150ca83",
+  "owner": "erjwrgjj",
+  "repo": "page-63b6965afec3bc5903cd68c9",
+  "title": "八方云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "63b6965afec3bc5903cd68c9",
+      "a": "八方云",
+      "b": "2027官方最新地址导航",
+      "entity": "八方云",
+      "brand": "八方云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "479b973f003bd92d25f59c5c7583cdca5905de7ee41c07e3f2f217871e76501a",
+      "content": {
+        "primary_entity": "八方云",
+        "keyword1": "八方云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择八方云订阅客户端，不同系统适配方式各有侧重。",
+          "AI_CLIENTS_TITLE": "八方云客户端匹配",
+          "AI_CLOSING_TEXT": "从月度套餐开始，按设备数量与流量需求逐步升级。",
+          "AI_CLOSING_TITLE": "八方云套餐选择建议",
+          "AI_DESCRIPTION": "，八方云提供基础版、旗舰版与团队版三种订阅层级，分别对应每月 100GB、300GB 与 1000GB 极速流量，支持 3 台、5 台与 20 台设备同时在线，按年付费可享更低的月均支出，适合个人多终端用户、流媒体与游戏加速需求者以及小型团队协作场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量消耗与订阅周期三个角度即可判断八方云套餐层级。",
+          "AI_FEATURES_TITLE": "八方云套餐判断要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按日常在线设备数直接匹配。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB 到 1000GB 跨度较大，高频看流媒体或游戏加速优先考虑旗舰版以上。",
+          "AI_FEATURE_TEXT_3": "三档均提供按年付方式，年付价格比逐月订阅更省，长期使用可锁定较低月均成本。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量消耗",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选择八方云套餐、确认设备适配、按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "八方云使用步骤",
+          "AI_HERO_INTRO": "八方云面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅，覆盖从个人多设备到小型团队的不同规模，按月或按年付费灵活选择。",
+          "AI_HERO_SUBTITLE": "八方云订阅套餐与客户端选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月度流量最高 1000GB",
+          "AI_HIGHLIGHT_3": "支持按年付费降低月均成本",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按设备与流量需求选择。",
+          "AI_PLANS_TITLE": "八方云套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量消耗，在基础版、旗舰版、团队版之间选定订阅层级。",
+          "AI_STEP_TEXT_2": "确认路由器、手机或电脑的适配情况，对照客户端说明检查订阅所需信息。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档完成订阅导入与连接配置，随后即可在多台设备上使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "八方云多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版 15 元每月，旗舰版 35 元每月，团队版 85 元每月。按年付分别约 150 元、350 元和 850 元每年，可根据流量和同时在线设备数需要选择。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线。若设备较多，建议选择设备上限更高的套餐，以便手机、电脑与平板共同使用。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供 IPLC 专线并对游戏加速优化，团队版提供 VIP 专属高带宽节点；基础版为普通线路节点池。对延迟和带宽有更高要求时，可优先考虑旗舰版或团队版。",
+          "AI_FAQ_ANSWER_4": "可以。客户端兼容情况随版本变化，建议根据设备系统选择常见客户端，并参照对应客户端的订阅导入文档完成配置，通常只需复制订阅地址后一键更新。",
+          "AI_FAQ_ANSWER_5": "按年付比按月付更划算，例如基础版年付 150 元、旗舰版年付 350 元、团队版年付 850 元。若长期使用，年付方案可减少续费次数并降低月均成本。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "八方云套餐价格分别是多少？",
+          "AI_FAQ_QUESTION_2": "每个套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "流媒体和游戏加速该选哪个套餐？",
+          "AI_FAQ_QUESTION_4": "手机和电脑可以共用同一个八方云订阅吗？",
+          "AI_FAQ_QUESTION_5": "按年付和按月付哪个更划算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ksmzsa42.cn",
+    "host": "ksmzsa42.cn"
+  },
+  "file_hashes": {
+    "index.html": "585efa4e7aaa92b025f26a130ae12afa276d531bf77ff169769c148a5df98439",
+    "sitemap.xml": "7ec802f7835af69b77abb4c7020cf50e27d66831669f99f1a30f17856d40e63e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2f63856a89df378661be53750b23c44d48de13751a6ae73d5dbe8dca23bea2dc",
+    "robots.txt": "2538d4db59361e201b0e2a27c4a3c65f286f597889f58c70d23f13e42ab38d19",
+    "280625a1da86a5db3b315ad71fb35894.txt": "bab3b6b08548515c651ebe5c465624de6aa7c97f56ca179b14a28aeb5b8e3ba7"
+  },
+  "revision": "68129fab68f38ec735f296038b71d79e0b73620f30e56f0c3b393d93bd7e5b03"
+}
